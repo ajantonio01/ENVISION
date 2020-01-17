@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Envision</string>
+    <string name="action_settings">Settings</string>
+    <string name="tts_no_engines">There were no Text to Speech Engines located in the device</string>
+    <string name="Introduction">
+        \n 1.1 INTRODUCTION \n
+A computer is a programmable machine designed to perform
+arithmetic and logical operations automatically and
+sequentially on the input given by the user and gives the
+desired output after processing. Computer components are
+divided into two major categories namely hardware and
+software. Hardware is the machine itself and its connected
+devices such as monitor, keyboard, mouse etc. Software are
+the set of programs that make use of hardware for performing
+various functions.</string>
+
+    <string name="basicsComputer">\n basic concepts of computer.</string>
+</resources>

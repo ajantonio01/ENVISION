@@ -1,0 +1,8 @@
+1.1 INTRODUCTION. A computer is a programmable machine designed to perform
+arithmetic and logical operations automatically and
+sequentially on the input given by the user and gives the
+desired output after processing. Computer components are
+divided into two major categories namely hardware and
+software. Hardware is the machine itself and its connected
+devices such as monitor, keyboard, mouse etc. Software are
+the set of programs that make use of hardware for performing various functions.
