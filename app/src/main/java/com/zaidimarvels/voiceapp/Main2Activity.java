@@ -32,7 +32,8 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
     private SpeechRecognizer speechRecog;
     Button Example;
     FloatingActionButton fab;
-    public String commands = "Greetings Learners. Available commands are. List courses. Check status. Resum learning. see more. say repeat. to repeat commands.";
+    // For demonstration purposes, "Basics of Computer" is the only course that accepts input from the user
+    public String commands = "Greetings Learners. Available commands are. List courses. Check status. Resum learning. see more. say. repeat. to repeat. commands.";
     public String courses = "Recommended Learning." + "Basics of Computer." + "." +
                                 "Advanced Python." + "." + "Deep Dive: Python." + "." +
                                 "Intro To JavaScript." + "." + "Advanced JavaScript." + "." +

@@ -182,8 +182,8 @@ public class learning_interface extends AppCompatActivity implements View.OnClic
 //                    speak("You choose basics of computer." + "." + "." +
 //                                   Title + "." + stringer
 //                            );
-                    speak("You chose basics of computer."+".Say start reading to start."+
-                            ".Say download pdf to download."+".Tap the button again to stop reading.");
+                    speak("You chose basics of computer."+".Say. start reading. to start."+
+                            ".Say. download pdf. to download."+".Tap the button again to stop reading.");
                 }
             }
         });

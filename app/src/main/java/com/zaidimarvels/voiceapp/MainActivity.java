@@ -177,7 +177,8 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     tts.setLanguage(Locale.US);
                     speak("Hello there, I am ready to start our conversation." +
-                            "Please say sign in to continue");
+                            "Please say. sign in. to continue." + "if you want to. activate. the. voice recognition." +
+                            "Press the button on the. lower. right. corner. of the application.");
                 }
             }
         });
